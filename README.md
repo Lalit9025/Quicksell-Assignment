@@ -1,4 +1,4 @@
-- Hosted Site: https://quick-sell-assignment-amresh.vercel.app/
+- Hosted Site: https://quicksell-assignment-lalit9025s-projects.vercel.app/
 
 # Usage
 
